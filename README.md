@@ -4,6 +4,6 @@ The MetaMask Support snap allows receiving and replying to customer support tick
 
 # Documentation
 
-Visit [tickets.metamask.io](https://tickets.metamask.io) to sign-in and add the snap to your MetaMask.
+Visit [consensys.io](https://consensys.io/) to sign-in and add the snap to your MetaMask.
 
-Visit the snap [FAQ](https://support.metamask.io/hc/en-us/articles/22053676917915-MetaMask-web3-support-experience) to get more details.
+Visit the snap [FAQ](https://metamask.io/terms-of-use) to get more details.
