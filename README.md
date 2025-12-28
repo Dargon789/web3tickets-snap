@@ -6,4 +6,4 @@ The MetaMask Support snap allows receiving and replying to customer support tick
 
 Visit [consensys.io](https://consensys.io/) to sign in and add the snap to your MetaMask.
 
-Visit the snap [FAQ](https://metamask.io/terms-of-use) to get more details.
+Visit the snap [Terms of Use](https://metamask.io/terms-of-use) to get more details.
